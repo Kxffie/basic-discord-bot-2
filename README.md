@@ -16,6 +16,6 @@ client.run("PUT YOUR TOKEN HERE")
 
 ## Links
 
-[Youtube Video - How to make a Discord Bot with Nextcord - DotEnv, GitIgnore and Cogs Included // Kxffie](https://youtu.be/cZtdxoIdZTA)<br />
+[Youtube Video - Nextcord Bot #2 - Bot Embeds, Admin commands and Logging // Kxffie](https://youtu.be/RxUOnUipa4k)<br />
 [Youtube Channel - Kxffie](https://bit.ly/3lRgN8V)<br />
 [Discord](https://bit.ly/38Le2mN)<br />
