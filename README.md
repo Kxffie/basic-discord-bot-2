@@ -14,6 +14,16 @@ Just change the token at the code below
 client.run("PUT YOUR TOKEN HERE")
 ```
 
+As well as in the configp.py, edit the parts you want to remove/add by changing the value or added your own
+
+```
+class __Config():
+    def __init__(self):
+        self.welcomeChannel = 'Discord Channel ID'
+        self.alertsChannel = 'Discord Channel ID'
+        self.example = 'Example'
+```
+
 ## Links
 
 [Youtube Video - Nextcord Bot #2 - Bot Embeds, Admin commands and Logging // Kxffie](https://youtu.be/RxUOnUipa4k)<br />
